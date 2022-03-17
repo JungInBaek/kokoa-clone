@@ -36,7 +36,6 @@
 .nav__ellipsis__notification {
   background-color: tomato;
   display: flex;
-  display: block;
   justify-content: center;
   align-items: center;
   width: 5px;
