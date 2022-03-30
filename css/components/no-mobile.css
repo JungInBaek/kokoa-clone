@@ -2,7 +2,7 @@
   position: absolute;
   z-index: 99;
   width: 100vh;
-  height: 100vh%;
+  height: 100vh;
   background-color: var(--yellow);
   display: flex;
   justify-content: center;
